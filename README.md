@@ -1,13 +1,20 @@
 # Ecommerce
-# React + Vite
+# BikeStore - Gear Up for the Ride! 🏍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive e-commerce landing page for a premium bike accessories store.  
+Built with **HTML5** and **CSS3**, the site showcases a bold, high-contrast design with smooth hover effects, promotional banners, and a fully mobile-friendly layout.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- **Hero Section** with catchy headline and call-to-action button.
+- **Promotional Offer Banner** for special discounts.
+- **Product Grid** showcasing premium bike accessories (helmets, gloves, jackets, boots, lights, saddle bags).
+- **About Section** describing the store's mission and values.
+- **Stylish Footer** with contact info, quick links, and social media icons.
+- Fully **responsive** layout for desktop, tablet, and mobile devices.
+- **Modern UI effects**: gradients, hover animations, shadows, and smooth scrolling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+- **HTML5** – semantic structure for web content.
+- **CSS3** – advanced styling with flexbox, grid, gradients, shadows, and animations.
+- **Responsive Web Design** – media queries for mobile-first design.
+- **UI/UX Best Practices** – for a clean, modern user experience.
